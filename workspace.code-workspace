@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\pickapp"
+		},
+		{
+			"path": "..\\Pickapp_old"
+		},
+		{
+			"path": "..\\practice"
+		}
+	],
+	"settings": {
+		"files.autoSave": "onWindowChange",
+		"liveServer.settings.multiRootWorkspaceName": "practice"
+	}
+}
